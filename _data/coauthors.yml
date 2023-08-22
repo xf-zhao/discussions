@@ -1,34 +1,27 @@
-"Adams":
-  - firstname: ["Edwin", "E.", "E. P.", "Edwin Plimpton"]
-    url: https://en.wikipedia.org/wiki/Edwin_Plimpton_Adams
+"Zhao":
+  - firstname: ["Xufeng"]
+    url: https://xf-zhao.github.io
 
-"Podolsky":
-  - firstname: ["Boris", "B.", "B. Y.", "Boris Yakovlevich"]
-    url: https://en.wikipedia.org/wiki/Boris_Podolsky
+"Li":
+  - firstname: ["Mengdi", "M."]
+    url: https://mengdi-li.github.io
 
-"Rosen":
-  - firstname: ["Nathan", "N."]
-    url: https://en.wikipedia.org/wiki/Nathan_Rosen
+"Lee":
+  - firstname: ["Jae Hee", "J. H."]
+    url: https://jaeheelee.gitlab.io/
 
-"Bach": 
-  - firstname: ["Johann Sebastian", "J. S."]
-    url: https://en.wikipedia.org/wiki/Johann_Sebastian_Bach
+"Weber": 
+  - firstname: ["Cornelius"]
+    url: https://www.inf.uni-hamburg.de/en/inst/ab/wtm/people/weber.html
 
-  - firstname: ["Carl Philipp Emanuel", "C. P. E."]
-    url: https://en.wikipedia.org/wiki/Carl_Philipp_Emanuel_Bach
+"Wermter":
+  - firstname: ["Stefan"]
+    url: https://www.inf.uni-hamburg.de/en/inst/ab/wtm/people/wermter.html
 
-"Przibram":
-  - firstname: ["Karl"]
-    url: https://link.springer.com/article/10.1007/s00016-019-00242-z
+"Hafez":
+  - firstname: ["Muhammad Burhan"]
+    url: https://www.mbhafez.com/
 
-"Schrödinger":
-  - firstname: ["Erwin"]
-    url: https://en.wikipedia.org/wiki/Erwin_Schr%C3%B6dinger
-
-"Lorentz":
-  - firstname: ["Hendrik Antoon"]
-    url: https://en.wikipedia.org/wiki/Hendrik_Lorentz
-
-"Planck":
-  - firstname: ["Max"]
-    url: https://en.wikipedia.org/wiki/Max_Planck
+"Lu":
+  - firstname: ["Wenhao"]
+    url: https://www.inf.uni-hamburg.de/en/inst/ab/wtm/people/lu.html
