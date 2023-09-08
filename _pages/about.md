@@ -1,6 +1,6 @@
 ---
 layout: about
-title: About
+title: Home
 permalink: /
 subtitle: 3rd year Ph.D student in <a href='https://www.inf.uni-hamburg.de/en/inst/ab/wtm.html'>University of Hamburg</a>.
 
