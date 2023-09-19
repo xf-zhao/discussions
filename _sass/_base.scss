@@ -304,6 +304,10 @@ blockquote {
 .social {
   text-align: center;
 
+  table, th, td {
+    border: 0px solid black;
+  }
+
   .contact-icons {
     font-size: 3rem;
 
