@@ -9,7 +9,7 @@ profile:
   image: xufeng.jpg
   image_circular: false # crops the image to make it circular
   address: >
-    <p> <img src="/assets/img/maps-and-flags.png" style="width: 6%; object-fit: contain;"> Hamburg, Germany</p>
+    <p> &nbsp; <img src="/assets/img/maps-and-flags.png" style="width: 6%; object-fit: contain;"> Hamburg, Germany</p>
 
 news: true  # includes a list of news items
 latest_posts: true  # includes a list of the newest posts
