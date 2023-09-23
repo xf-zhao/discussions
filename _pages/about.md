@@ -16,3 +16,9 @@ latest_posts: true  # includes a list of the newest posts
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
+
+- 🎓 My interests are in a <ins>"research triangle"</ins>:
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="/assets/img/research_triangle.png" width="350" height="auto">
+
+- 🙌 I am opening to collaborations.
