@@ -1,12 +1,17 @@
 ---
 layout: page
-title: project 3
-description: a project that redirects to another website
-img: assets/img/7.jpg
-redirect: https://unsplash.com
-importance: 3
+title: Matcha agent
+description: Multimodal perception using Large Language Models (LLMs)
+img: https://matcha-agent.github.io/img/matcha_background_small.png
+# img: https://matcha-agent.github.io/img/Matcha_preview.gif
+importance: 2
+redirect: https://matcha-agent.github.io
 category: work
+related_publications: Zhao23ChatEnvironment
+giscus_comments: true
 ---
+
+<!-- <link href="matcha-agent.github.io" rel="import"/> -->
 
 Every project has a beautiful feature showcase page.
 It's easy to include images in a flexible 3-column grid format.

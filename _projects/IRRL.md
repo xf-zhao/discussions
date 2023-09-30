@@ -1,11 +1,11 @@
 ---
 layout: page
-title: project 2
-description: a project with a background image and giscus comments
-img: assets/img/3.jpg
-importance: 2
+title: IRRL
+description: Internally Rewarded Reinforcement Learning (IRRL)
+img: https://ir-rl.github.io/img/agent-environment-interaction-loop.png
+redirect: https://ir-rl.github.io
+importance: 3
 category: work
-giscus_comments: true
 ---
 
 Every project has a beautiful feature showcase page.

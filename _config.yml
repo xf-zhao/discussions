@@ -12,7 +12,6 @@ description: > # the ">" symbol means to ignore newlines until "footer_text:"
 footer_text: >
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/xf-zhao/xf-zhao.github.io">adapted al-folio</a> theme.
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
-  Photos from <a href="https://unsplash.com" target="_blank">Unsplash</a>.
 keywords: Robotics, LLMs, Reinforcement Learning  # add your own keywords or leave empty
 
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
@@ -160,9 +159,9 @@ disqus_shortname: xf-zhao # put your disqus shortname
 # External sources.
 # If you have blog posts published on medium.com or other external sources,
 # you can display them in your blog by adding a link to the RSS feed.
-external_sources:
-  - name: medium.com
-    rss_url: https://xf-zhao.medium.com/feed
+# external_sources:
+  # - name: medium.com
+    # rss_url: https://xf-zhao.medium.com/feed
 
 # -----------------------------------------------------------------------------
 # Collections
