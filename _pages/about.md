@@ -9,7 +9,7 @@ subtitle: >
 
 profile:
   align: right
-  image: xufeng2.jpg
+  image: xufeng.jpg
   image_circular: true # crops the image to make it circular
   address: >
 
