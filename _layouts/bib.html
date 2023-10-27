@@ -1,7 +1,7 @@
 ---
 ---
 <!-- _layouts/bib.html -->
-      <div class="row">
+      <div class="row" {% if entry.feature %}style="background-image: linear-gradient(to right, rgba(255,0,0,0.005), rgba(255,0,0,.05));"{% else %}{% endif %}>
         <div class="col-sm-2 {% if entry.preview %}preview{% else %}abbr{% endif %}">
         {%- if entry.preview -%}
           {% if entry.preview contains '://' -%}

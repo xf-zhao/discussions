@@ -1,6 +1,11 @@
-"AJP":
-  url: https://aapt.scitation.org/journal/ajp
+"ICML":
+  url: https://icml.cc/Conferences/2023/Dates
   color: "#00369f"
 
-"PhysRev":
-  url: https://journals.aps.org/
+"IEEE ICDL 2023":
+  url: https://www.icdl-2023.org/
+  color: "#318CE7"
+
+"CSCWD 2021":
+  url: http://8.131.80.51/cscwd2021/index.html
+  color: "#318CE7"
