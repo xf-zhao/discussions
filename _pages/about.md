@@ -15,7 +15,6 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-<script src="https://cdn.jsdelivr.net/npm/typeit@7.0.4/dist/typeit.min.js"></script>
 <script src="https://unpkg.com/typeit@8.7.1/dist/index.umd.js"></script>
 
 <p id="companionMethods"></p>

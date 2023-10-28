@@ -1,8 +1,8 @@
 ---
 layout: page
-permalink: /teaching/
-title: Teaching
+permalink: /talk/
+title: Talk
 description: Materials for courses you taught. Replace this text with your description.
 nav: false
-nav_order: 5
+nav_order: 4
 ---
