@@ -9,14 +9,12 @@ nav_order: 5
 
 ## GitHub users
 
-{% if site.data.repositories.github_users %}
-<div class="repositories d-flex flex-wrap flex-md-row flex-column justify-content-between align-items-center">
-  {% for user in site.data.repositories.github_users %}
-    {% include repository/repo_user.html username=user %}
-  {% endfor %}
-</div>
-
----
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=xf-zhao&show_icons=true&theme=buefy" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=xf-zhao&layout=compact&langs_count=8&card_width=320" />
+</a>
 
 {% if site.repo_trophies.enabled %}
 {% for user in site.data.repositories.github_users %}
@@ -30,7 +28,6 @@ nav_order: 5
   ---
 
 {% endfor %}
-{% endif %}
 {% endif %}
 
 ## GitHub Repositories
