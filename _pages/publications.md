@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /publications/
-title: Research
+title: Publications
 nav: true
 nav_order: 1
 ---
@@ -12,7 +12,7 @@ My interests are in a <ins>"research triangle"</ins>:
 
 - **Large language models** have high capacities to reason universally
 - **Reinforcement learning** optimize agent behavior to maximize expectations
-- **Robots embody** the intellegence to our real world
+- **Robots** embody the intellegence to our real world
 
 
 <div class="publications">
