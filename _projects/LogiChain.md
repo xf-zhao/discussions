@@ -24,6 +24,7 @@ Recent advancements in large language models have showcased their remarkable gen
 ## Methodology
 
 ## Citation
+
 ```text
 @misc{Zhao23EnhancingZeroShot,
   title = {Enhancing {{Zero-Shot Chain-of-Thought Reasoning}} in {{Large Language Models}} through {{Logic}}},
@@ -38,6 +39,6 @@ Recent advancements in large language models have showcased their remarkable gen
   urldate = {2023-09-26},
   abstract = {Recent advancements in large language models have showcased their remarkable generalizability across various domains. However, their reasoning abilities still have significant room for improvement, especially when confronted with scenarios requiring multi-step reasoning. Although large language models possess extensive knowledge, their behavior, particularly in terms of reasoning, often fails to effectively utilize this knowledge to establish a coherent thinking paradigm. Generative language models sometimes show hallucinations as their reasoning procedures are unconstrained by logical principles. Aiming to improve the zero-shot chain-of-thought reasoning ability of large language models, we propose Logical Chain-of-Thought (LogiCoT), a neurosymbolic framework that leverages principles from symbolic logic to verify and revise the reasoning processes accordingly. Experimental evaluations conducted on language tasks in diverse domains, including arithmetic, commonsense, symbolic, causal inference, and social problems, demonstrate the efficacy of the enhanced reasoning paradigm by logic.},
   archiveprefix = {arxiv},
-  arxiv = {2309.13339},
+  arxiv = {2309.13339}
 }
 ```

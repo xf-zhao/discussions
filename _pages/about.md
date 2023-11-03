@@ -1,6 +1,6 @@
 ---
 layout: about
-title: Home
+title: About
 permalink: /
 # subtitle: I'm actively looking for collaboration/visiting oppotunities in **LLMs+Robotics**
 profile:
