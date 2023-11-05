@@ -7,6 +7,7 @@ tags:
     - probability
     - large language models
 giscus_comments: true
+categories: work
 ---
 
 **Long story short, this post tries to explain Elo rating with a probabilistic perspective, especially the relation with a logistic distribution that many of the existing blogs failed to do.**
