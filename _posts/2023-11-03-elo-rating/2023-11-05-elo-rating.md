@@ -105,9 +105,9 @@ Explanation of the usage in alignment tuning LLMs.
 ---
 ## Reference and Footnote
 
-[^1]: W. X. Zhao et al., “A Survey of Large Language Models.” arXiv, Sep. 11, 2023. Accessed: Oct. 24, 2023. [Online]. Available: http://arxiv.org/abs/2303.18223
+[^1]: W. X. Zhao et al., “A Survey of Large Language Models.” arXiv, Sep. 11, 2023. Accessed: Oct. 24, 2023. [Online]. Available: [http://arxiv.org/abs/2303.18223](http://arxiv.org/abs/2303.18223)
 
-[^2]: A. Glaese et al., “Improving alignment of dialogue agents via targeted human judgements.” arXiv, Sep. 28, 2022. doi: 10.48550/arXiv.2209.14375.
+[^2]: A. Glaese et al., “Improving alignment of dialogue agents via targeted human judgements.” arXiv, Sep. 28, 2022. [https://arxiv.org/abs/2209.14375](https://arxiv.org/abs/2209.14375).
 
 [^3]: [League of Lengends wiki: Elo Rating](https://leagueoflegends.fandom.com/wiki/Elo_rating_system)
 
