@@ -16,7 +16,7 @@ My interests are in a <ins>"research triangle"</ins>:
 
 
 <div class="publications">
-<em>in reversed chronological order / <b>*</b>equal contributions / <b><p style="background-image: linear-gradient(to right, rgba(255,0,0,0.02), rgba(255,0,0,.28));display:inline">featured works</p></b></em>
+<em>in reversed chronological order / <b>*</b>equal contributions / <b><p style="background-image: linear-gradient(to right, rgba(255,0,0,0.01), rgba(255,0,0,.21));display:inline">featured works</p></b></em>
 {% bibliography -f {{ site.scholar.bibliography }} %}
 
 </div>
