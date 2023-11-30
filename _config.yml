@@ -178,6 +178,11 @@ collections:
   projects:
     output: true
     permalink: /projects/:path/
+  talks:
+    defaults:
+      layout: post
+    output: true
+    permalink: /talks/:path/
 
 announcements:
   enabled: true
