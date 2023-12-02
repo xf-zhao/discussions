@@ -6,7 +6,8 @@ nav: true
 nav_order: 4
 ---
 
+##### 2023
 
-- ⌛ ...
 
-- ☑ [2023-11-18] Talk on *"RL, LLM Boosted Agents"*, [如身机器人科技](https://www.zhipin.com/companys/934ae755d84a08b103V73tm6ElA~.html) (Nov 2023) [[Slides](../assets/pdf/RL-LLM-Boosted-Agents-Talk-Rushen.pdf)].
+
+- <span style="color:gray;">[2023-11-18]</span> Talk on *"RL, LLM Boosted Agents"*, [如身机器人科技](https://www.zhipin.com/companys/934ae755d84a08b103V73tm6ElA~.html) (Nov 2023) [[Slides](../assets/pdf/RL-LLM-Boosted-Agents-Talk-Rushen.pdf)].
