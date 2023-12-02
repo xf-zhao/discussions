@@ -7,13 +7,19 @@ nav: true
 nav_order: 5
 ---
 
+##### Thesis Supervision
 
-##### 2023
-- ⌛ Supervisor, Neural Networks Seminar, University of Hamburg
-    + *"LLM fine-tuning with News Data"*
+- Task-Agnostic Policy Distillation: Continual Deep Reinforcement Learning with Alternating Self-Supervised Prediction, Kerim Erekmen, *BSc thesis, 2023*, University of Hamburg.
+
+<br/>
 
 
-##### 2022
-- Supervisor, Bio-inspired Artificial Intelligence Seminar, University of Hamburg
-    + *"Survey on Deployable LLMs"*
-    + *"Unsupervised Skill Discovery Implementation"*
+##### Seminar Supervision
+
+- ⌛ LLM Fine-tuning with News Data, *Bio-inspired Artificial Intelligence Seminar 2023*, University of Hamburg
+
+- Survey on Deployable LLMs, *Neural Networks Seminar 2023*, University of Hamburg
+
+- Unsupervised Skill Discovery Implementation, *Bio-inspired Artificial Intelligence Seminar 2022*, University of Hamburg
+
+- Survey on Transformers in Reinforcement Learning, *Bio-inspired Artificial Intelligence Seminar 2022*, University of Hamburg
