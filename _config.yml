@@ -178,15 +178,10 @@ collections:
   projects:
     output: true
     permalink: /projects/:path/
-  talks:
-    defaults:
-      layout: post
-    output: true
-    permalink: /talks/:path/
 
 announcements:
   enabled: true
-  scrollable: true # adds a vertical scroll bar if there are more than 3 news items
+  scrollable: false # adds a vertical scroll bar if there are more than 3 news items
   limit: 2 # leave blank to include all the news in the `_news` folder
 
 latest_posts:
@@ -369,7 +364,7 @@ enable_google_verification: false  # enables google site verification
 enable_bing_verification:   false  # enables bing site verification
 enable_masonry:             true   # enables automatic project cards arrangement
 enable_math:                true   # enables math typesetting (uses MathJax)
-enable_tooltips:            false  # enables automatic tooltip links generated
+enable_tooltips:            true  # enables automatic tooltip links generated
                                    # for each section titles on pages and posts
 enable_darkmode:            false   # enables switching between light/dark modes
 enable_navbar_social:       true  # enables displaying social links in the
@@ -392,7 +387,7 @@ bootstrap:
     css: "sha256-DF7Zhf293AJxJNTmh5zhoYYIMs2oXitRfBjY+9L//AY="
     js: "sha256-fgLAgv7fyCGopR/gBNq2iW3ZKIdqIcyshnUULC4vex8="
 bootstrap-table:
-  version: "1.21.4"
+  version: "1.22.1"
 fontawesome:
   version: "6.4.0"
   integrity: "sha256-HtsXJanqjKTc8vVQjO4YMhiqFoXkfBsjBWcX91T1jr8="
